@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hugo Grapes Theme</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Hugo Grapes Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2019 13:01:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://example.com/posts/first/</link>
+      <pubDate>Fri, 26 Jul 2019 13:01:45 +0800</pubDate>
+      
+      <guid>https://example.com/posts/first/</guid>
+      <description>我搭建的第一个博客</description>
+    </item>
+    
+    <item>
+      <title>The Fox and the Grapes</title>
+      <link>https://example.com/posts/the-fox-and-the-grapes/</link>
+      <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
+      
+      <guid>https://example.com/posts/the-fox-and-the-grapes/</guid>
+      <description>A Fox one day spied a beautiful bunch of ripe grapes hanging from a vine trained along the branches of a tree. The grapes seemed ready to burst with juice, and the Fox&amp;rsquo;s mouth watered as he gazed longingly at them.
+The bunch hung from a high branch, and the Fox had to jump for it. The first time he jumped he missed it by a long way. So he walked off a short distance and took a running leap at it, only to fall short once more.</description>
+    </item>
+    
+    <item>
+      <title>Drakshasava</title>
+      <link>https://example.com/posts/drakshasava/</link>
+      <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
+      
+      <guid>https://example.com/posts/drakshasava/</guid>
+      <description>Drakshasava (Sanskrit: द्राक्षासव) is a traditional Ayurvedic tonic made from grapes. Drakshasava is a weak wine because the grape juice is usually only partially fermented. It is also sometimes prepared by using raisin concentrate. The tonic is claimed to be beneficial for maladies such as lethargy, weakness and heat exhaustion. Drakshasava is believed to address health imbalances arising from an excess of the Vata-Vayu Dosha and is said to be useful in curing cardiac disorders and hemorrhoids in the Ayurvedic system.</description>
+    </item>
+    
+    <item>
+      <title>Code Demo</title>
+      <link>https://example.com/posts/code-demo/</link>
+      <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
+      
+      <guid>https://example.com/posts/code-demo/</guid>
+      <description>Bash #!/bin/bash ###### CONFIG ACCEPTED_HOSTS=&amp;quot;/root/.hag_accepted.conf&amp;quot; BE_VERBOSE=false if [ &amp;quot;$UID&amp;quot; -ne 0 ] then echo &amp;quot;Superuser rights required&amp;quot; exit 2 fi genApacheConf(){ echo -e &amp;quot;# Host ${HOME_DIR}$1/$2 :&amp;quot; }  JSON [ { &amp;quot;title&amp;quot;: &amp;quot;apples&amp;quot;, &amp;quot;count&amp;quot;: [12000, 20000], &amp;quot;description&amp;quot;: {&amp;quot;text&amp;quot;: &amp;quot;...&amp;quot;, &amp;quot;sensitive&amp;quot;: false} }, { &amp;quot;title&amp;quot;: &amp;quot;oranges&amp;quot;, &amp;quot;count&amp;quot;: [17500, null], &amp;quot;description&amp;quot;: {&amp;quot;text&amp;quot;: &amp;quot;...&amp;quot;, &amp;quot;sensitive&amp;quot;: false} } ]  Rust fn main() { let greetings = [&amp;quot;Hello&amp;quot;, &amp;quot;Hola&amp;quot;, &amp;quot;Bonjour&amp;quot;, &amp;quot;Ciao&amp;quot;, &amp;quot;こんにちは&amp;quot;, &amp;quot;안녕하세요&amp;quot;, &amp;quot;Cześć&amp;quot;, &amp;quot;Olá&amp;quot;, &amp;quot;Здравствуйте&amp;quot;, &amp;quot;Chào bạn&amp;quot;, &amp;quot;您好&amp;quot;, &amp;quot;Hallo&amp;quot;, &amp;quot;Hej&amp;quot;, &amp;quot;Ahoj&amp;quot;, &amp;quot;سلام&amp;quot;,&amp;quot;สวัสดี&amp;quot;]; for (num, greeting) in greetings.</description>
+    </item>
+    
+  </channel>
+</rss>
