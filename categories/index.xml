@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Grapes Theme</title>
-    <link>https://yxz.github.io/categories/</link>
+    <link>https://yxzlyr.github.io/categories/</link>
     <description>Recent content in Categories on Hugo Grapes Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Oct 2018 20:08:42 +0530</lastBuildDate>
     
-	<atom:link href="https://yxz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yxzlyr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>fable</title>
-      <link>https://yxz.github.io/categories/fable/</link>
+      <link>https://yxzlyr.github.io/categories/fable/</link>
       <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/fable/</guid>
+      <guid>https://yxzlyr.github.io/categories/fable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>story</title>
-      <link>https://yxz.github.io/categories/story/</link>
+      <link>https://yxzlyr.github.io/categories/story/</link>
       <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/story/</guid>
+      <guid>https://yxzlyr.github.io/categories/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ayurvedha</title>
-      <link>https://yxz.github.io/categories/ayurvedha/</link>
+      <link>https://yxzlyr.github.io/categories/ayurvedha/</link>
       <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/ayurvedha/</guid>
+      <guid>https://yxzlyr.github.io/categories/ayurvedha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>medicine</title>
-      <link>https://yxz.github.io/categories/medicine/</link>
+      <link>https://yxzlyr.github.io/categories/medicine/</link>
       <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/medicine/</guid>
+      <guid>https://yxzlyr.github.io/categories/medicine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://yxz.github.io/categories/code/</link>
+      <link>https://yxzlyr.github.io/categories/code/</link>
       <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/code/</guid>
+      <guid>https://yxzlyr.github.io/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://yxz.github.io/categories/programming/</link>
+      <link>https://yxzlyr.github.io/categories/programming/</link>
       <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
       
-      <guid>https://yxz.github.io/categories/programming/</guid>
+      <guid>https://yxzlyr.github.io/categories/programming/</guid>
       <description></description>
     </item>
     
